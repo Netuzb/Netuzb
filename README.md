@@ -15,7 +15,7 @@ Proektlarim unchalik koʻp emas va <b><font color="red">krupniylik</font></b> hi
 [![Button](https://badgen.net/badge/Apex-Legends-Mobile-chat/Apex-Legends-Mobile-chat/red?icon=telegram&label)](https://t.me/APEXLEGENDS_MOBILE_CHAT)
 
 <h2><img src="https://te.legra.ph/file/2b66eef4952cedc2e1ffb.png" width="10%"> IJTIMOIY TARMOQLARDA</h2>
-Faqat quyidagi <b>tarmoq</b>larda borman.<br>
+Faqat quyidagi <b>tarmoq</b>larda shaxsiy hisoblarim mavjud.<br>
 
 <img src="https://te.legra.ph/file/ad02280782f0cafbe372a.png" width="20px"> <a href='https://instagram.com/_temur.erkinov'><img src='https://img.shields.io/badge/Instagram-_temur.erkinov-orange?style=flat-square' alt='Level'></a><br>
 <img src="https://te.legra.ph/file/91d2efe400346edafa0cb.png" width="20px"> <a href='https://telegram.me/netuzb'><img src='https://img.shields.io/badge/Telegram-@netuzb-orange?style=flat-square' alt='Level'></a><br>
