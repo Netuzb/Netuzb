@@ -1,4 +1,4 @@
-<img src="https://siasky.net/PAGFxfvygKVv_59ohTKaPiCDugKgrD_RHLSZD3xWECZnlw">
+<img src="https://i.gifer.com/DpZq.gif">
 
 ## Hunarlarim
 ◍ <b>Dasturlash boʻyicha</b>: [ Python(koʻp emas), PHP, HTML, CSS ]<br>
