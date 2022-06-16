@@ -1,7 +1,7 @@
 ## Hunarlarim
-◍ <b>Dasturlash boʻyicha</b>: [ Python(koʻp emas), PHP, HTML, CSS ]
-◍ <b>Grafika boʻyicha</b>: [ Android Studio, Procreate, IbisPaint ]
-◍ <b>Hobbies</b>: Musiqa eshitaman, oʻyin oʻynayman (odatiy hol)
+◍ <b>Dasturlash boʻyicha</b>: [ Python(koʻp emas), PHP, HTML, CSS ]<br>
+◍ <b>Grafika boʻyicha</b>: [ Android Studio, Procreate, IbisPaint ]<br>
+◍ <b>Hobbies</b>: Musiqa eshitaman, oʻyin oʻynayman (odatiy hol)<br>
 
 ## Mening shaxsiy proektlarim
 [![Button](https://badgen.net/badge/Telegram%20botnet/Telegram%20botnet/blue?icon=github&label)](https://github.com/json1c/telegram-raid-botnet)
