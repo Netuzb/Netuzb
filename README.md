@@ -9,8 +9,8 @@
 <h2><img src="https://te.legra.ph/file/823048b9f47006a8d5f76.png" width="10%"> SHAXSIY PROEKTLARIM</h2>
 Proektlarim unchalik koʻp emas va <b><font color="red">krupniylik</font></b> hissiyoti menga qorongʻu.
 
-[![Button](https://badgen.net/badge/UMod/UMod-Userbot Modification/red?icon=telegram&label)](https://t.me/umodules)<br>
-[![Button](https://badgen.net/badge/Soso/Soso-Userbot Modification/red?icon=telegram&label)](https://github.com/Netuzb/sosi)<br>
+[![Button](https://badgen.net/badge/UMod/UMod-Userbot-Modification/red?icon=telegram&label)](https://t.me/umodules)<br>
+[![Button](https://badgen.net/badge/Soso/Soso-Userbot-Modification/red?icon=telegram&label)](https://github.com/Netuzb/sosi)<br>
 [![Button](https://badgen.net/badge/XueArts/XueArts-My-Works/red?icon=slack&label)](https://t.me/xueart)<br>
 [![Button](https://badgen.net/badge/Apex-Legends-Mobile-chat/Apex-Legends-Mobile-chat/red?icon=telegram&label)](https://t.me/APEXLEGENDS_MOBILE_CHAT)
 
