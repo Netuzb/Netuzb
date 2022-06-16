@@ -1,4 +1,4 @@
-<h2><img src="https://te.legra.ph/file/ce5a5d154736726e05c40.png"> TEMUR ERKINOV (◕ᴗ◕✿)</h2>
+<h2><img src="https://te.legra.ph/file/ce5a5d154736726e05c40.png" width="10%"> TEMUR ERKINOV (◕ᴗ◕✿)</h2>
 <img src="https://te.legra.ph/file/08c6a5f79f0871f7d6196.png">
 
 ## KERAKSIZ MAʼLUMOTLAR:
