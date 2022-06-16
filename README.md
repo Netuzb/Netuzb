@@ -1,16 +1,14 @@
-### Hi there 👋
+## Навыки
+- 👨‍💻 Python, TypeScript, JavaScript, Go (немного)
+- ⚙️ Flask, Django, GIN
+- 👁️ CSS, HTML
+- 💽 MySQL, SQL, PostgreSQL
 
-<!--
-**Netuzb/Netuzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Интересные проекты
+[![Button](https://badgen.net/badge/TelegramClient-UMod/TelegramClient-UMod/blue?icon=github&label)](https://github.com/json1c/telegram-raid-botnet)
+[![Button](https://badgen.net/badge/Autobio/Autobio/blue?icon=github&label)](https://github.com/json1c/autobio)
+[![Button](https://badgen.net/badge/AntiZoomer/AntiZoomer/blue?icon=github&label)](https://github.com/json1c/anti-zoomer-telegram-bot)
 
-Here are some ideas to get you started:
+## Как со мной связаться
+[![Button](https://badgen.net/badge/Telegram/Telegram/blue?icon=telegram&label)](https://t.me/json1c)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
