@@ -7,7 +7,7 @@
 ◍ <a href='https://github.com/Netuzb'><img src='https://img.shields.io/badge/Hobbilarim:- Musiqa eshitish, Art ishlari, Oʻyinlar-red?style=flat-square' alt='Level'></a>
 
 ## SHAXSIY PROEKTLARIM:
-Proektlarim unchalik koʻp emas va <b>krupniylik</b> hissiyoti menga qorongʻu.
+Proektlarim unchalik koʻp emas va <b><font color="red">krupniylik</font></b> hissiyoti menga qorongʻu.
 
 [![Button](https://badgen.net/badge/UMod/UMod-Userbot/red?icon=telegram&label)](https://t.me/umodules)<br>
 [![Button](https://badgen.net/badge/Soso/Soso-Userbot/red?icon=telegram&label)](https://github.com/Netuzb/sosi)
