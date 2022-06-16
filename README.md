@@ -17,5 +17,6 @@ Proektlarim unchalik koʻp emas va <b><font color="red">krupniylik</font></b> hi
 ## IJTIMOIY TARMOQLARDA:
 Faqat quyidagi <b>tarmoq</b>larda borman.
 
-<a href='https://instagram.com/_temur.erkinov'><img src='https://img.shields.io/badge/Instagram-_Temur.Erkinov-orange?style=flat-square' alt='Level'></a>
-<a href='https://telegram.me/netuzb'><img src='https://img.shields.io/badge/Telegram-Temur Erkinov-orange?style=flat-square' alt='Level'></a>
+<a href='https://instagram.com/_temur.erkinov'><img src='https://img.shields.io/badge/Instagram-_temur.erkinov-orange?style=flat-square' alt='Level'></a>
+<a href='https://telegram.me/netuzb'><img src='https://img.shields.io/badge/Telegram-@netuzb-orange?style=flat-square' alt='Level'></a>
+<a href='https://invite.duolingo.com/BDHTZTB5CWWKT6AZEZCJSBNLA4'><img src='https://img.shields.io/badge/Duolingo-temur.erkinov-orange?style=flat-square' alt='Level'></a>
