@@ -1,3 +1,5 @@
+<video src="https://te.legra.ph/file/6e6273e87c92792484402.mp4">
+
 ## Hunarlarim
 ◍ <b>Dasturlash boʻyicha</b>: [ Python(koʻp emas), PHP, HTML, CSS ]<br>
 ◍ <b>Grafika boʻyicha</b>: [ Android Studio, Procreate, IbisPaint ]<br>
