@@ -6,7 +6,7 @@
 ◍ <a href='https://github.com/Netuzb'><img src='https://img.shields.io/badge/Grafika boʻyicha:- Procreate, IbisPaint, Painter-red?style=flat-square' alt='Level'></a><br>
 ◍ <a href='https://github.com/Netuzb'><img src='https://img.shields.io/badge/Hobbilarim:- Musiqa eshitish, Art ishlari, Oʻyinlar-red?style=flat-square' alt='Level'></a>
 
-## SHAXSIY PROEKTLARIM:
+<h2><img src="https://te.legra.ph/file/823048b9f47006a8d5f76.png" width="10%"> SHAXSIY PROEKTLARIM:</h2>
 Proektlarim unchalik koʻp emas va <b><font color="red">krupniylik</font></b> hissiyoti menga qorongʻu.
 
 [![Button](https://badgen.net/badge/UMod/UMod-Userbot/red?icon=telegram&label)](https://t.me/umodules)<br>
@@ -14,7 +14,7 @@ Proektlarim unchalik koʻp emas va <b><font color="red">krupniylik</font></b> hi
 [![Button](https://badgen.net/badge/XueArts/XueArts-My-Works/red?icon=slack&label)](https://t.me/xueart)
 [![Button](https://badgen.net/badge/Apex-Legends-Mobile-chat/Apex-Legends-Mobile-chat/red?icon=telegram&label)](https://t.me/APEXLEGENDS_MOBILE_CHAT)
 
-## IJTIMOIY TARMOQLARDA:
+<h2><img src="https://te.legra.ph/file/2b66eef4952cedc2e1ffb.png" width="10%"> IJTIMOIY TARMOQLARDA:</h2>
 Faqat quyidagi <b>tarmoq</b>larda borman.
 
 <a href='https://instagram.com/_temur.erkinov'><img src='https://img.shields.io/badge/Instagram-_temur.erkinov-orange?style=flat-square' alt='Level'></a>
