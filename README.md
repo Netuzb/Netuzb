@@ -3,10 +3,8 @@
 
 ## HUNARLARIM:
 ◍ <a href='https://github.com/Netuzb'><img src='https://img.shields.io/badge/Dasturlash boʻyicha:- Python, PHP, HTML, CSS-red?style=flat-square' alt='Level'></a><br>
-◍ <a href='https://github.com/Netuzb'><img src='https://img.shields.io/badge/Grafika boʻyicha:- Procreate, IbisPaint, Painter-red?style=flat-square' alt='Level'></a>
-◍ <a href='https://github.com/Netuzb'><img src='https://img.shields.io/badge/Hobbilarim:- Musiqa eshitish, Art ishlari, Yangiliklar oʻqish-red?style=flat-square' alt='Level'></a>
-
-◍ <b>Hobbies</b>: Musiqa eshitaman, oʻyin oʻynayman (odatiy hol)<br>
+◍ <a href='https://github.com/Netuzb'><img src='https://img.shields.io/badge/Grafika boʻyicha:- Procreate, IbisPaint, Painter-red?style=flat-square' alt='Level'></a><br>
+◍ <a href='https://github.com/Netuzb'><img src='https://img.shields.io/badge/Hobbilarim:- Musiqa eshitish, Art ishlari, Oʻyinlar-red?style=flat-square' alt='Level'></a>
 
 ## SHAXSIY PROEKTLARIM:
 [![Button](https://badgen.net/badge/UMod/UMod-Userbot/red?icon=telegram&label)](https://t.me/umodules)
