@@ -1,5 +1,5 @@
 ## ASSALOMU ALAYKUM!
-<img src="https://i.gifer.com/DpZq.gif">
+<img src="https://te.legra.ph/file/08c6a5f79f0871f7d6196.png">
 
 ## HUNARLARIM:
 ◍ <a href='https://github.com/Netuzb'><img src='https://img.shields.io/badge/Dasturlash boʻyicha:- Python, PHP, HTML, CSS-red?style=flat-square' alt='Level'></a><br>
