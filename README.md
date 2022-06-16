@@ -6,7 +6,7 @@
 ## Mening shaxsiy proektlarim
 [![Button](https://badgen.net/badge/UMod/UMod-Userbot/green?icon=telegram&label)](https://t.me/umodules)
 [![Button](https://badgen.net/badge/Soso/Soso-Userbot/green?icon=telegram&label)](https://github.com/Netuzb/sosi)
-[![Button](https://badgen.net/badge/XueArts/XueArts/blue?icon=procreate&label)](https://github.com/json1c/anti-zoomer-telegram-bot)
+[![Button](https://badgen.net/badge/XueArts/XueArts/blue?icon=pinterest&label)](https://t.me/xueart)
 
 
 ## Men bilan aloqa
