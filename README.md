@@ -19,3 +19,4 @@ Faqat quyidagi <b>tarmoq</b>larda borman.
 
 <a href='https://instagram.com/_temur.erkinov'><img src='https://img.shields.io/badge/Instagram-_temur.erkinov-orange?style=flat-square' alt='Level'></a>
 <a href='https://telegram.me/netuzb'><img src='https://img.shields.io/badge/Telegram-@netuzb-orange?style=flat-square' alt='Level'></a>
+<a href='https://github.com/Netuzb'><img src='https://img.shields.io/badge/Github-Netuzb-orange?style=flat-square' alt='Level'></a>
