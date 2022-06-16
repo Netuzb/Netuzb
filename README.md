@@ -1,4 +1,4 @@
-<video src="https://te.legra.ph/file/6e6273e87c92792484402.mp4">
+<video src="https://te.legra.ph/file/6e6273e87c92792484402.mp4" controls>play</video>
 
 ## Hunarlarim
 ◍ <b>Dasturlash boʻyicha</b>: [ Python(koʻp emas), PHP, HTML, CSS ]<br>
