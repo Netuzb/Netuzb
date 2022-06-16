@@ -4,8 +4,8 @@
 ◍ <b>Hobbies</b>: Musiqa eshitaman, oʻyin oʻynayman (odatiy hol)<br>
 
 ## Mening shaxsiy proektlarim
-[![Button](https://badgen.net/badge/Telegram%20botnet/UMod-Userbot/green?icon=github&label)](https://github.com/json1c/telegram-raid-botnet)
-[![Button](https://badgen.net/badge/Autobio/Autobio/blue?icon=github&label)](https://github.com/json1c/autobio)
+[![Button](https://badgen.net/badge/Telegram%20botnet/UMod-Userbot/green?icon=telegram&label)](https://t.me/umodules)
+[![Button](https://badgen.net/badge/Autobio/Autobio/blue?icon=telegram&label)](https://github.com/Netuzb/sosi)
 [![Button](https://badgen.net/badge/AntiZoomer/AntiZoomer/blue?icon=github&label)](https://github.com/json1c/anti-zoomer-telegram-bot)
 
 
