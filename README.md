@@ -9,10 +9,7 @@
 ## SHAXSIY PROEKTLARIM:
 Proektlarim unchalik koʻp emas va <b>krupniylik</b> hissiyoti menga qorongʻu.
 
-[![Button](https://badgen.net/badge/UMod/UMod-Userbot/red?icon=telegram&label)](https://t.me/umodules)<br>
-[![Button](https://badgen.net/badge/Soso/Soso-Userbot/red?icon=telegram&label)](https://github.com/Netuzb/sosi)
-[![Button](https://badgen.net/badge/XueArts/XueArts-My-Works/red?icon=slack&label)](https://t.me/xueart)
-[![Button](https://badgen.net/badge/Apex-Legends-Mobile-chat/Apex-Legends-Mobile-chat/red?icon=telegram&label)](https://t.me/APEXLEGENDS_MOBILE_CHAT)
+[![Button](https://badgen.net/badge/UMod/UMod-Userbot/red?icon=telegram&label)](https://t.me/umodules)<br>[![Button](https://badgen.net/badge/Soso/Soso-Userbot/red?icon=telegram&label)](https://github.com/Netuzb/sosi)[![Button](https://badgen.net/badge/XueArts/XueArts-My-Works/red?icon=slack&label)](https://t.me/xueart)[![Button](https://badgen.net/badge/Apex-Legends-Mobile-chat/Apex-Legends-Mobile-chat/red?icon=telegram&label)](https://t.me/APEXLEGENDS_MOBILE_CHAT)
 
 ## IJTIMOIY TARMOQLARDA:
 <a href='https://instagram.com/_temur.erkinov'><img src='https://img.shields.io/badge/Instagram-_Temur.Erkinov-orange?style=flat-square' alt='Level'></a>
