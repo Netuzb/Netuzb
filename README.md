@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/lines-pattern-cut-the-mustard-u9FD8gYWCsrLWmhQUF">
+<img src="https://siasky.net/PAGFxfvygKVv_59ohTKaPiCDugKgrD_RHLSZD3xWECZnlw">
 
 ## Hunarlarim
 ◍ <b>Dasturlash boʻyicha</b>: [ Python(koʻp emas), PHP, HTML, CSS ]<br>
