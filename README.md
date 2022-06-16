@@ -3,7 +3,7 @@
 
 ## HUNARLARIM:
 ◍ <b>Dasturlash boʻyicha</b>: [ Python(koʻp emas), PHP, HTML, CSS ]<br>
-<a href='https://github.com/Netuzb'><img src='https://img.shields.io/badge/Dasturlash boʻyicha-Python,PHP,HTML,CSS-orange?style=flat-square' alt='Level'></a>
+<a href='https://github.com/Netuzb'><img src='https://img.shields.io/badge/Dasturlash boʻyicha:-Python, PHP, HTML, CSS-red?style=flat-square' alt='Level'></a>
 ◍ <b>Grafika boʻyicha</b>: [ Android Studio, Procreate, IbisPaint ]<br>
 ◍ <b>Hobbies</b>: Musiqa eshitaman, oʻyin oʻynayman (odatiy hol)<br>
 
