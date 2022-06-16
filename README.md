@@ -1,4 +1,4 @@
-## ASSALOMU ALAYKUM!
+## ASSALOMU ALAYKUM! temur_erkinov
 <img src="https://te.legra.ph/file/08c6a5f79f0871f7d6196.png">
 
 ## KERAKSIZ MAʼLUMOTLAR:
